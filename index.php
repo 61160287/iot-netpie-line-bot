@@ -1,2 +1,2 @@
 <?php
-echo "LINEBoT API by KANT.";
+echo "IOT netpie LINEBot API by Tippawan Aiemsaad.";
